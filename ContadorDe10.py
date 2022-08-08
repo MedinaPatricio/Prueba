@@ -17,7 +17,7 @@ cantidad = 10
 
 while True:
 	print (cantidad)
-	if cantidad == 5:
+	if cantidad == 7:
 		print ("Estamos a la mitad")
 	elif cantidad == 3:
 		print ("Prendan motores")
