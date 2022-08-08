@@ -20,7 +20,7 @@ while True:
 	if cantidad == 7:
 		print ("Estamos a la mitad")
 	elif cantidad == 3:
-		print ("Prendan motores")
+		print ("prueba de patri")
 	elif cantidad == 1:
 		print ("Despeguen")
 	cantidad -= 1
